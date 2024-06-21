@@ -1,0 +1,6 @@
+cloudscraper==1.2.71
+openai==0.28
+beautifulsoup4==4.12.3
+lxml==5.2.2
+python-dotenv==1.0.1
+loguru==0.7.2
